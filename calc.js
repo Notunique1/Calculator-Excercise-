@@ -23,3 +23,5 @@ reader.question("What would you like to calculate?", function(input){
 	reader.close()
 
 });
+
+console.log('hello')
